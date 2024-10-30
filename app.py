@@ -11,8 +11,8 @@ from tensorflow.keras.layers import LSTM, Dense, Dropout
 from sklearn.preprocessing import MinMaxScaler
 import pytz
 
-api_key = 'CZdVhiAbV9C2haA8YN4Epuv2vft7Vs17zsTRV5p1ZGdBwlgBl1BahGlncgHhC0km'
-api_secret = '9IgtM80uYIr3OLvfbCD8zKd8OTwUeOTsCTZULf2QRDMjYOYu5J3CcN5VAsRLHrfE'
+api_key = 'Para testar você deve criar uma api na binance e colar aqui'
+api_secret = 'Para testar você deve criar uma api na bincance e colar aqui'
 
 client = Client(api_key, api_secret)
 
