@@ -23,17 +23,18 @@ Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em te
    cd nome_do_projeto
 
 2. Instale as dependências:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-3. Defina suas credenciais da Binance: Para utilizar a API da Binance, é necessário uma API Key e Secret Key. Coloque-as no código onde indicado.
+4. Defina suas credenciais da Binance:
+   Para utilizar a API da Binance, é necessário uma API Key e Secret Key. Coloque-as no código onde indicado.
 
-USO
+##USO
 1. Execute o arquivo principal:
    python nome_do_arquivo.py
 2. Abra o navegador e acesse http://localhost:8050 para ver a interface gráfica.
 
 
-Estrutura do Código
-LSTM Model: Utiliza uma rede neural LSTM para previsão de preços baseada em dados históricos.
-Indicators: Calcula a média móvel (SMA) e o índice de força relativa (RSI) para análises técnicas.
-Dashboard com Dash: Interface que exibe o gráfico de preços em tempo real e as previsões da rede neural.
+##Estrutura do Código
+- **LSTM Model: Utiliza uma rede neural LSTM para previsão de preços baseada em dados históricos.
+- **Indicators: Calcula a média móvel (SMA) e o índice de força relativa (RSI) para análises técnicas.
+- **Dashboard com Dash: Interface que exibe o gráfico de preços em tempo real e as previsões da rede neural.
