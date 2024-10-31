@@ -1,4 +1,4 @@
-app.py
+#app.py
 # Previsor de Preços de Criptomoedas com LSTM 🚀
 
 Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em tempo real, com dados fornecidos pela API da Binance. O projeto inclui uma interface com Dash que exibe o preço real e a previsão.
@@ -23,15 +23,20 @@ Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em te
    cd nome_do_projeto
 
 2. Instale as dependências:
+   ```bash
    pip install -r requirements.txt
 
 4. Defina suas credenciais da Binance:
-   Para utilizar a API da Binance, é necessário uma API Key e Secret Key. Coloque-as no código onde indicado.
+- **Para utilizar a API da Binance, é necessário uma API Key e Secret Key. Coloque-as no código onde indicado.
 
 ##USO
 1. Execute o arquivo principal:
+   ```bash
    python nome_do_arquivo.py
-2. Abra o navegador e acesse http://localhost:8050 para ver a interface gráfica.
+   
+3. Abra o navegador e acesse para ver a interface gráfica:
+   ```bash
+   http://localhost:8050
 
 
 ##Estrutura do Código
