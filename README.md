@@ -48,7 +48,7 @@ Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em te
 
 # teste.c
 
-## Primeiro código utilizando uma função recursiva
+## Meu primeiro código utilizando uma função recursiva
 
 Este projeto tem como objetivo aprender um pouco mais de como se utiliza uma função recursiva criado no intuito de aprendizado!
 
