@@ -44,7 +44,7 @@ Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em te
 - **Indicators**: Calcula a média móvel (SMA) e o índice de força relativa (RSI) para análises técnicas.
 - **Dashboard com Dash**: Interface que exibe o gráfico de preços em tempo real e as previsões da rede neural.
 
-# __________________________________________________________________________________________________________________________________
+# ____________________________________________________________________________
 
 # teste.c
 
