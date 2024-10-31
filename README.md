@@ -27,7 +27,7 @@ Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em te
    pip install -r requirements.txt
 
 4. Defina suas credenciais da Binance:
-- **Para utilizar a API da Binance, é necessário uma API Key e Secret Key. Coloque-as no código onde indicado.
+- **Para utilizar a API da Binance, é necessário uma API Key e Secret Key. Coloque-as no código onde indicado.**
 
 ## USO
 1. Execute o arquivo principal:
