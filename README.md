@@ -94,7 +94,7 @@ Este projeto tem como intuito mostrar de uma forma simples o conceito de uma fil
 ## Instalação
 1. Copie o codigo ou faça download do arquivo.
    ```bash
-   https://github.com/ofaviO-o/projetos/blob/main/teste.c
+   https://github.com/ofaviO-o/projetos/blob/main/fila.c
 2. Cole no seu compilador C/C++ ou abra o arquivo no local de download do seu sistema.
 
 ## Uso
