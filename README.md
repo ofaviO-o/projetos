@@ -1,5 +1,5 @@
 # app.py
-# Previsor de Preços de Criptomoedas com LSTM 🚀
+## Previsor de Preços de Criptomoedas com LSTM 🚀
 
 Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em tempo real, com dados fornecidos pela API da Binance. O projeto inclui uma interface com Dash que exibe o preço real e a previsão.
 
@@ -44,7 +44,8 @@ Este projeto usa uma rede neural LSTM para prever o preço de criptomoedas em te
 - **Indicators**: Calcula a média móvel (SMA) e o índice de força relativa (RSI) para análises técnicas.
 - **Dashboard com Dash**: Interface que exibe o gráfico de preços em tempo real e as previsões da rede neural.
 
-# ____________________________________________________________________________
+# 
+#
 
 # teste.c
 
@@ -62,13 +63,44 @@ Este projeto tem como objetivo aprender um pouco mais de como se utiliza uma fun
 
 ## Instalação
 
-1. Copie o codigo
+1. Copie o codigo ou faça download do arquivo.
    ```bash
    https://github.com/ofaviO-o/projetos/blob/main/teste.c
-2. Cole no seu compilador C/C++
+2. Cole no seu compilador C/C++ ou abra o arquivo no local de download do seu sistema.
 
 ## Uso
-1. Escolha a opção "Iniciar novo calculo" para que um novo calculo seja feito.
-2. Insira a quantidade de elementos que deverá ser feito o calculo.
-3. Escolha a opção "Sair" para encerrar o programa.
+1. Compile o arquivo.
+2. No terminal do seu compilador, escolha a opção "Iniciar novo calculo" para que um novo calculo seja feito.
+3. Insira a quantidade de elementos que deverá ser feito o calculo.
+4. Escolha a opção "Sair" para encerrar o programa.
 
+#
+#
+
+# Fila.c
+
+## Estrutura de uma fila.
+Este projeto tem como intuito mostrar de uma forma simples o conceito de uma fila.
+
+## Tecnologias utilizadas
+- **Linguagem C**: Linguagem de programação principal.
+- **Estrutura fila**: Uma estrutura FIFO(First In, First Out) do inglês primeiro a entrar, primeiro a sair.
+
+## Funcionalidades
+- Fornece opção do usuário definir a capacidade da fila, alocando dinamicamente na memória.
+- Fornece a opção do usuário visualizar toda a fila.
+- Exibe na tela os elementos removidos pelo usuário.
+
+## Instalação
+1. Copie o codigo ou faça download do arquivo.
+   ```bash
+   https://github.com/ofaviO-o/projetos/blob/main/teste.c
+2. Cole no seu compilador C/C++ ou abra o arquivo no local de download do seu sistema.
+
+## Uso
+1. Compile o arquivo.
+2. No terminal do seu compilador, defina a capacidade da sua fila.
+3. Em seguida, escolha uma opção digitando o número e clicando enter.
+4. Escolha a opção "Sair" para encerrar o programa.
+
+#
