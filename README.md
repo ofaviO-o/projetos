@@ -104,3 +104,31 @@ Este projeto tem como intuito mostrar de uma forma simples o conceito de uma fil
 4. Escolha a opção "Sair" para encerrar o programa.
 
 #
+
+# pilha.c.
+
+## Estrutura de uma pilha.
+Este projeto tem como intuito mostrar de forma simples o conceito de uma pilha, empilhado uma struct.
+
+## Tecnologias utilizadas
+- **linguagem C**: Linguagem de programação principal.
+- **Estrutura pilha**: Uma estrutura LIFO(Last In, First Out) do inglês Ultimo a entrar, primeiro a sair.
+- **Empilhando struct**: Uma struct alocada dinamicamente na memória.
+
+## Funcionalidades
+- fornece um menu com opções para remoção e inserção de elementos e opção de sair liberando a memória usada.
+- exibe na tela elementos removidos pelo usuário.
+
+## Instalação
+1. Copie o codigo ou faça download do arquivo.
+   ```bash
+   https://github.com/ofaviO-o/projetos/blob/main/pilha.c
+2. Cole no seu compilador C/C++ ou abra o arquivo no local de download do seu sistema.
+
+## Uso
+1. Compile o arquivo.
+2. No terminal do seu compilador, defina a capacidade da sua pilha.
+3. Em seguida, escolha uma opção digitando o número e clicando enter.
+4. Escolha a opção "Sair" para encerrar o programa.
+
+#
