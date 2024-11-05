@@ -132,3 +132,30 @@ Este projeto tem como intuito mostrar de forma simples o conceito de uma pilha, 
 4. Escolha a opção "Sair" para encerrar o programa.
 
 #
+
+# classe.cpp
+
+## Estrutura de uma fila.
+Este projeto tem como intuito mostrar de uma forma simples o conceito de uma fila mas em c++ utilizando classe.
+
+## Tecnologias utilizadas
+- **Linguagem C++**: Linguagem de programação principal.
+- **Estrutura fila**: Uma estrutura FIFO(First In, First Out) do inglês primeiro a entrar, primeiro a sair.
+
+## Funcionalidades
+- Fornece opção do usuário definir a capacidade da fila, alocando dinamicamente na memória.
+- Exibe na tela os elementos removidos pelo usuário.
+
+## Instalação
+1. Copie o codigo ou faça download do arquivo.
+   ```bash
+   https://github.com/ofaviO-o/projetos/blob/main/classe.cpp
+2. Cole no seu compilador C/C++ ou abra o arquivo no local de download do seu sistema.
+
+## Uso
+1. Compile o arquivo.
+2. No terminal do seu compilador, defina a capacidade da sua fila.
+3. Em seguida, escolha uma opção digitando o número e clicando enter.
+4. Escolha a opção "Sair" para encerrar o programa.
+
+
